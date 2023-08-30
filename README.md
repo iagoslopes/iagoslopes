@@ -1,7 +1,7 @@
 ### 
 Olá!!👋 Eu sou o Iago Lopes 
 
-- 🔭 Hoje trabalho na Area Industrial
+- 🔭 No momento procurando oportunidades de emprego
 - 🌱 Estudando Desenvolvimento de Software Multiplataforma
 - 📫 How to reach me: iagodesouza2012@gmail.com
 - 😄 Pronouns: Ele/Dele
