@@ -3,7 +3,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagoslopes&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
 
 <p align="left"> 
-  Moro em São Paulo, tenho 22 anos e sou <strong>Desenvolvedor Front-End</strong>.<br></br>
+  Moro em São Paulo, tenho 22 anos e sou <strong>entusiasta na tecnologia</strong>.<br></br>
   Atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor. Estou cursando Tecnólogo em Desenvolvimento de Software Multiplataforma na FATEC Mauá.<br></br>
   Estou sempre em busca de desafios e oportunidades para aprender e crescer.
 </p>
